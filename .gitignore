@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.env
+dist/
+build/
+.vercel
+**/seed/images/
+Thumbs.db
+.DS_Store
