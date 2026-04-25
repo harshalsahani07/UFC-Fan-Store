@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+UFC Fighter/node_modules/
+UFC Fighter/backend/node_modules/
+UFC Fighter/frontend/node_modules/
+
+# Environment variables
+.env
+*.env
+UFC Fighter/backend/.env
+UFC Fighter/frontend/.env
+
+# Build outputs
+dist/
+build/
+
+# Seed images cache
+UFC Fighter/backend/src/seed/images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
